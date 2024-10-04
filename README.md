@@ -51,12 +51,11 @@ Follow these steps to set up the project on your local machine:
 
 ## Example Screenshot
 
-![Color Detection App Screenshot](![Screenshot 2024-10-05 002346](https://github.com/user-attachments/assets/64487362-9c1c-467d-8cf7-758a88df7518)
-)
+![Color Detection App Screenshot](https://github.com/user-attachments/assets/64487362-9c1c-467d-8cf7-758a88df7518)
+
 
 ## Future Improvements
 
-- Allow users to click anywhere on the image to detect the color at that point.
 - Improve the accuracy of color detection by averaging pixel values around the center.
 - Add support for larger images and higher resolution color detection.
 - Provide an option to display a color palette based on the entire image.
